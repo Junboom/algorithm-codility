@@ -4,7 +4,8 @@ package traning;
  * 
  * @author JBoom
  *
- * @date 2020.03.28 Clear
+ * @start 2020.03.28
+ * @clear 2020.03.28
  *
  */
 public class task1 {
